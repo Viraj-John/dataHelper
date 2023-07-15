@@ -16,6 +16,8 @@ Java 13 or higher
 
 **Fields and Usage **
 
+<img width="862" alt="Screenshot 2023-07-15 at 9 55 19 AM" src="https://github.com/Viraj-John/dataHelper/assets/138886172/31aa9682-298b-4ced-b37a-199ac8e9e9ec">
+
 URL [Text Field]
 The Resource URL
 Input [Text Field]
