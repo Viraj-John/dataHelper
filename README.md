@@ -2,7 +2,7 @@
 
 **Usage **
 
-Identify Test Data from API Calls and Filtering them using string parameters checking contains condition
+Identify Data from API Calls (looping using the data provided in a text file ) and Filtering them using string parameters by checking contains condition
 
 **Application Specifications ** 
 
